@@ -1,11 +1,8 @@
 {
-  "posts": [
+  "filmler": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "recep ivedik"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
