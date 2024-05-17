@@ -1,11 +1,8 @@
 {
-  "posts": [
+  "Filmler": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "Recep İvedik 1"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
